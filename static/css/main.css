@@ -1,0 +1,17 @@
+body {
+  background-color: #dba766;
+  margin: 0 auto;
+  }
+
+#start {
+  max-width: 600px;
+  background-color: #f3ece2;
+  margin: 0 auto;
+}
+
+#senator {
+  max-width: 600px;
+  background-color: #f3ece2;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
